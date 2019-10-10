@@ -1,14 +1,14 @@
 # Welcome to Sabrina's Github❤️❤️
 ## 上課內容
 * Linked-List
-  * abc
+  * Basic Concepts
   * abc
 - Stack & Queue
-  - abc
+  - Basic Concepts
   - abc
 * Insertion Sort
-  * abc
+  * Basic Concepts
   * abc
 - Quick Sort
-  - abc
+  - Basic Concepts
   - abc
