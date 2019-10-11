@@ -10,5 +10,5 @@
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Insertion%20Sort/Basic%20Concept.pdf)
   * abc
 - Quick Sort
-  - Basic Concepts
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Basic%20concept.pdf)
   - abc
