@@ -4,7 +4,7 @@
   * Basic Concepts
   * abc
 - Stack & Queue
-  - Basic Concepts
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Stack%20%26%20Queue/Basic%20Concept.pdf)
   - abc
 * Insertion Sort
   * Basic Concepts
