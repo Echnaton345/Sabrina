@@ -1,6 +1,6 @@
 # Welcome to Sabrina's Github❤️❤️
 ## 上課內容
-* Linked-List
+* [Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * Basic Concepts
   * abc
 - Stack & Queue
