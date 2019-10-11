@@ -7,7 +7,7 @@
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Stack%20%26%20Queue/Basic%20Concept.pdf)
   - abc
 * Insertion Sort
-  * Basic Concepts
+  * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Insertion%20Sort/Basic%20Concept.pdf)
   * abc
 - Quick Sort
   - Basic Concepts
