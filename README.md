@@ -11,4 +11,4 @@
   * abc
 - [Quick Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Basic%20concept.pdf)
-  - abc
+  - [Quick Sort 作業](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Quick%20Sort%20HW.ipynb)
