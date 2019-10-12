@@ -2,7 +2,7 @@
 ## 上課內容
 * [Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
-  * abc
+  * [Linked-List 基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
 - [Stack & Queue](https://github.com/Sabrina8198/Sabrina/tree/master/Stack%20%26%20Queue)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Stack%20%26%20Queue/Basic%20Concept.pdf)
   - abc
