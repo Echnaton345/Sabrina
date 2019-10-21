@@ -13,4 +13,6 @@
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Basic%20concept.pdf)
   - [Quick Sort 作業](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Quick%20Sort%20HW.ipynb)
   - [Quick Sort 學習歷程](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/QuickSort作業.pdf)
-
+- [Heap Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Heap%20Sort)
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
+  
