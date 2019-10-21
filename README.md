@@ -1,5 +1,13 @@
 # Welcome to Sabrina's Github❤️❤️
-## 上課內容
+
+   高千儀的程式小天地☁️☁️
+## 自我介紹
+* 姓名： 高千儀
+ 
+  學號： 06170119
+ 
+  系級： 巨資三A
+## 資料結構與演算法上課內容
 * [Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
   * [Linked-List 基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
