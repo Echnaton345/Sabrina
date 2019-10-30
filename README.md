@@ -7,6 +7,11 @@
   學號： 06170119
  
   系級： 巨資三A
+  
+  興趣： 看韓劇
+  
+  學歷： 快樂瑪麗安/北新國小/崇光女中/和平高中/東吳大學巨資系
+  
 ## 資料結構與演算法上課內容
 * [Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
@@ -23,4 +28,6 @@
   - [Quick Sort 學習歷程](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/QuickSort作業.pdf)
 - [Heap Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Heap%20Sort)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
-  
+- [Merge Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Heap%20Sort)
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
+
