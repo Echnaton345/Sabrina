@@ -14,6 +14,16 @@
 
 ## 🌟HomeWork2 點這邊～🌟
 
+* Heap Sort 程式碼
+
+  Merge Sort 程式碼
+  
+  Heap Sort 流程說明
+  
+  Merge Sort 流程說明
+  
+  Heap Sort & Merge Sort 比較
+
 ## 資料結構與演算法上課內容
 * [Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
