@@ -28,6 +28,6 @@
   - [Quick Sort 學習歷程](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/QuickSort作業.pdf)
 - [Heap Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Heap%20Sort)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
-- [Merge Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Heap%20Sort)
+- [Merge Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
 
