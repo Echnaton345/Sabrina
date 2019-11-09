@@ -14,9 +14,9 @@
 
 ## 🌟HomeWork2 點這邊～🌟
 
-* [Heap Sort 程式碼](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/Heap%20Sort程式碼.py)
+* [Heap Sort 程式碼](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/heap_sort_06170119.py)
 
-  [Merge Sort 程式碼](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/Merge%20sort程式碼.py)
+  [Merge Sort 程式碼](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/_sort_06170119.py)
   
   [Heap Sort 流程說明](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/Heap%20Sort%20學習歷程.pdf)
   
