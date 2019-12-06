@@ -12,19 +12,7 @@
   
   學歷： 快樂瑪麗安/北新國小/崇光女中/和平高中/東吳大學巨資系
 
-## 🌟HomeWork2 點這邊～🌟
-
-* [Heap Sort 程式碼](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/heap_sort_06170119.py)
-
-  [Merge Sort 程式碼](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/_sort_06170119.py)
-  
-  [Heap Sort 流程說明](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/Heap%20Sort%20學習歷程.pdf)
-  
-  [Merge Sort 流程說明](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/Merge%20Sort%20學習歷程.pdf)
-  
-  [Heap Sort & Merge Sort 比較](https://github.com/Sabrina8198/Sabrina/blob/master/HW2/Heap%20Sort%20＆%20Merge%20Sort%20比較.pdf)
-
-## 資料結構與演算法上課內容
+## 🌟資料結構與演算法上課內容🌟
 * [Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
   * [Linked-List 基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
@@ -42,4 +30,14 @@
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
 - [Merge Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
+- [Binary Search Tree]()
+  - [Basic Concepts]()
+- [Red Black Tree]()
+  - [Basic Concepts]()
+- [Hash Table]()
+  - [Basic Concepts]()
+  
+  
+  ## 🌟LeetCode🌟
+
 
