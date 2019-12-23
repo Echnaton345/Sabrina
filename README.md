@@ -45,7 +45,7 @@
   
  
 
-  ## 🌟作業🌟
+## 🌟作業🌟
   * [HW1](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
   
   * [HW2](https://github.com/Sabrina8198/Sabrina/tree/master/HW2)
@@ -59,6 +59,6 @@
   * [HW6](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   
   
-  ## 🌟LeetCode🌟
+## 🌟LeetCode🌟
 
 
