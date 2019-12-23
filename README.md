@@ -30,29 +30,29 @@
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
 - [Merge Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
   - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
-- [Hash Table]()
-  - [Basic Concepts]()
-- [Binery Search Tree & Red Black Tree]()
-  - [Basic Concepts]()
-- [BFS & DFS]()
-  - [Basic Concepts]()
+- [Hash Table](https://github.com/Sabrina8198/Sabrina/tree/master/Hash%20Table)
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
+- [Binery Search Tree & Red Black Tree](https://github.com/Sabrina8198/Sabrina/tree/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree)
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+- [BFS & DFS](https://github.com/Sabrina8198/Sabrina/tree/master/BFS%20%26%20DFS)
+  - [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
 - [Minimum Spanning Tree & Shortest Path]()
   - [Basic Concepts]()
   
  
 
 ## 🌟作業🌟
-  * [HW1](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
+  * [HW1(Qiuck Sort)](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
   
-  * [HW2](https://github.com/Sabrina8198/Sabrina/tree/master/HW2)
+  * [HW2(Merge & Heap sort)](https://github.com/Sabrina8198/Sabrina/tree/master/HW2)
   
-  * [HW3](https://github.com/Sabrina8198/Sabrina/tree/master/HW3)
+  * [HW3(Binery Search Tree)](https://github.com/Sabrina8198/Sabrina/tree/master/HW3)
   
-  * [HW4](https://github.com/Sabrina8198/Sabrina/tree/master/HW4)
+  * [HW4(Hash Table)](https://github.com/Sabrina8198/Sabrina/tree/master/HW4)
   
-  * [HW5](https://github.com/Sabrina8198/Sabrina/tree/master/HW5)
+  * [HW5(BFS & DFS)](https://github.com/Sabrina8198/Sabrina/tree/master/HW5)
   
-  * [HW6](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  * [HW6(Dijkstra)](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   
   
 ## 🌟LeetCode🌟
