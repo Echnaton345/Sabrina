@@ -38,6 +38,23 @@
   - [Basic Concepts]()
   
   
+  
+  
+  
+  ## 🌟作業🌟
+  * [HW1](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
+  * [HW2](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
+  * [HW3](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
+  * [HW4](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
+  * [HW5](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
+  * [HW6](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
+  
   ## 🌟LeetCode🌟
 
 
