@@ -42,15 +42,15 @@
   
   
   ## 🌟作業🌟
-  * [HW1](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  * [HW1](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
   
-  * [HW2](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  * [HW2](https://github.com/Sabrina8198/Sabrina/tree/master/HW2)
   
-  * [HW3](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  * [HW3](https://github.com/Sabrina8198/Sabrina/tree/master/HW3)
   
-  * [HW4](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  * [HW4](https://github.com/Sabrina8198/Sabrina/tree/master/HW4)
   
-  * [HW5](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  * [HW5](https://github.com/Sabrina8198/Sabrina/tree/master/HW5)
   
   * [HW6](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   
