@@ -1,4 +1,4 @@
-**Stack & Queue
+Stack & Queue
 
 *Stack 是後進先出的集合，例如玩撲克牌排遊戲時，發牌時是從整疊的最上一張拿取。FILO&LIFO
 
