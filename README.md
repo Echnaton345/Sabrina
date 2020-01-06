@@ -19,14 +19,17 @@
 * Week1(09/09~09/15) Introducing Github
 
 * [Week2(09/16~09/22) Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+  
   * [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
   * [Linked-List 基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
 
 - [Week3(09/23~09/29) Stack & Queue](https://github.com/Sabrina8198/Sabrina/tree/master/Stack%20%26%20Queue)
+  
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Stack%20%26%20Queue/Basic%20Concept.pdf)
   
-* [Week4(09/30~10/06) Insertion Sort & Quick Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Insertion%20Sort)
-  * [Insertion Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Insertion%20Sort/Basic%20Concept.pdf)
+- [Week4(09/30~10/06) Insertion Sort & Quick Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Insertion%20Sort)
+  
+  - [Insertion Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Insertion%20Sort/Basic%20Concept.pdf)
   - [Quick Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Basic%20concept.pdf)
   - [Quick Sort 作業](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Quick%20Sort%20HW.ipynb)
   - [Quick Sort 學習歷程](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/QuickSort作業.pdf)
