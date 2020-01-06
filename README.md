@@ -13,7 +13,7 @@
   學歷： 快樂瑪麗安/北新國小/崇光女中/和平高中/東吳大學巨資系
 
 ## 🌟資料結構與演算法上課內容🌟
-* [Week1(09/09~09/15) Introducing Github]
+* Week1(09/09~09/15) Introducing Github
 
 * [Week2(09/16~09/22) Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
   * [Basic Concepts](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
