@@ -48,14 +48,12 @@
 - [Week9(11/04~11/10) BlockChain Scratch](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
 
-- [Hash Table](https://github.com/Sabrina8198/Sabrina/tree/master/Hash%20Table)
-  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
-
-- [Week10(11/11~11/17)Binery Search Tree & Red Black Tree](https://github.com/Sabrina8198/Sabrina/tree/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree)
+- [Week10(11/11~11/17)Binery Search Tree](https://github.com/Sabrina8198/Sabrina/tree/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree)
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
 
 - [Week11(11/18~11/24) Red Black Tree & Hash Table](https://github.com/Sabrina8198/Sabrina/tree/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree)
-  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+  - [Red Black Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+  - [Hash Table內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
 
 - [Week12(11/25~12/01) BFS](https://github.com/Sabrina8198/Sabrina/tree/master/BFS%20%26%20DFS)
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
