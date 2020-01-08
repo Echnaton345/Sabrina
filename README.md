@@ -18,47 +18,47 @@
 ## 🌟資料結構與演算法上課內容🌟
 * Week1(09/09~09/15) Introducing Github
 
-* [Week2(09/16~09/22) Linked-List](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
+* Week2(09/16~09/22) Linked-List
   
-  * [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
+  * [Linked-List內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
   * [Linked-List 基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
 
-- [Week3(09/23~09/29) Stack & Queue](https://github.com/Sabrina8198/Sabrina/tree/master/Stack%20%26%20Queue)
+- Week3(09/23~09/29) Stack & Queue
   
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Stack%20%26%20Queue/Basic%20Concept.pdf)
   
-- [Week4(09/30~10/06) Insertion Sort & Quick Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Insertion%20Sort)
+- Week4(09/30~10/06) Insertion Sort & Quick Sort
   
   - [Insertion Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Insertion%20Sort/Basic%20Concept.pdf)
   - [Quick Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Basic%20concept.pdf)
   - [Quick Sort 作業](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Quick%20Sort%20HW.ipynb)
   - [Quick Sort 學習歷程](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/QuickSort作業.pdf)
 
-- [Week5(10/07~10/13) 雙十放假](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
+- Week5(10/07~10/13) 雙十放假
 
-- [Week6(10/14~10/20) Heap Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Heap%20Sort)
+- Week6(10/14~10/20) Heap Sort
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Heap%20Sort/Basic%20Concept.pdf)
 
-- [Week7(10/21~10/27) Merge Sort](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
+- Week7(10/21~10/27) Merge Sort
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
 
-- [Week8(10/28~11/03) Binary Tree](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
+- Week8(10/28~11/03) Binary Tree
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
 
-- [Week9(11/04~11/10) BlockChain Scratch](https://github.com/Sabrina8198/Sabrina/tree/master/Merge%20Sort)
-  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
+- Week9(11/04~11/10) BlockChain Scratch
+  - BlockChain 內容概述
 
-- [Week10(11/11~11/17)Binery Search Tree](https://github.com/Sabrina8198/Sabrina/tree/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree)
-  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+- Week10(11/11~11/17)Binery Search Tree
+  - [Binery Search Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
 
-- [Week11(11/18~11/24) Red Black Tree & Hash Table](https://github.com/Sabrina8198/Sabrina/tree/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree)
+- Week11(11/18~11/24) Red Black Tree & Hash Table
   - [Red Black Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
   - [Hash Table內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
 
-- [Week12(11/25~12/01) BFS](https://github.com/Sabrina8198/Sabrina/tree/master/BFS%20%26%20DFS)
+- Week12(11/25~12/01) BFS
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
 
-- [Week13(12/02~12/08) DFS](https://github.com/Sabrina8198/Sabrina/tree/master/BFS%20%26%20DFS)
+- Week13(12/02~12/08) DFS
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
 
 - [Week14(12/09~12/15) Minimum Spanning Tree & Shortest Path]()
