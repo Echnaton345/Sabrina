@@ -41,7 +41,7 @@
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
 
 - Week8(10/28~11/03) Binary Tree
-  - [內容概述]()
+  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binary%20Tree.pdf)
 
 - Week9(11/04~11/10) BlockChain Scratch
   - BlockChain 內容概述
@@ -59,7 +59,7 @@
 - Week13(12/02~12/08) DFS
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
 
-- [Week14(12/09~12/15) Minimum Spanning Tree & Shortest Path]()
+- [Week14(12/09~12/15) Minimum Spanning Tree]()
   - [內容概述]()
 
 - [Week15(12/16~12/22) Shortest Path]()
