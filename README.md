@@ -20,8 +20,8 @@
 
 * Week2(09/16~09/22) Linked-List
   
-  * [Linked-List內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
-  * [Linked-List 基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
+  * [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Basic%20Concept.pdf)
+  * [基本練習](https://github.com/Sabrina8198/Sabrina/blob/master/Linked-List/Linked%20List(Basic%20Practice)1.ipynb)
 
 - Week3(09/23~09/29) Stack & Queue
   
@@ -31,8 +31,6 @@
   
   - [Insertion Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Insertion%20Sort/Basic%20Concept.pdf)
   - [Quick Sort 內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Basic%20concept.pdf)
-  - [Quick Sort 作業](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/Quick%20Sort%20HW.ipynb)
-  - [Quick Sort 學習歷程](https://github.com/Sabrina8198/Sabrina/blob/master/Quick%20Sort/QuickSort作業.pdf)
 
 - Week5(10/07~10/13) 雙十放假
 
@@ -49,7 +47,7 @@
   - BlockChain 內容概述
 
 - Week10(11/11~11/17)Binery Search Tree
-  - [Binery Search Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
 
 - Week11(11/18~11/24) Red Black Tree & Hash Table
   - [Red Black Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
@@ -72,7 +70,7 @@
 
 - Week17(12/30~01/05) Final Exam
   
-
+  
 - Week18(01/06~01/12) Holoday
   
   
@@ -83,7 +81,7 @@
 | :---: | :---: | :---: | :---: |
 | HW1 | [QuickSort](https://github.com/Sabrina8198/Sabrina/tree/master/HW1) | HW4 | [HashTable](https://github.com/Sabrina8198/Sabrina/tree/master/HW4) |
 | HW2 | [MergeSort+HeapSort](https://github.com/Sabrina8198/Sabrina/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/Sabrina8198/Sabrina/tree/master/HW5) |
-| HW3 | [BinarySearchTree](https://github.com/Sabrina8198/Sabrina/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
+| HW3 | [BinarySearchTree](https://github.com/Sabrina8198/Sabrina/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/Sabrina8198/Sabrina/tree/master/HW6) |
 
 ## 🌟補充🌟
   * LeetCode
