@@ -83,7 +83,7 @@
 | HW3 | [BinarySearchTree](https://github.com/Sabrina8198/Sabrina/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/Sabrina8198/Sabrina/tree/master/HW6) |
 
 ## 🌟補充🌟
-   
+   * [Leetcode](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/REANME.md)
    
    | Practice        | LINK           | Practice | LINK          | Practice | LINK |
 | :---: | :---: | :---: | :---: | :---: | :---: |
