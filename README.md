@@ -16,7 +16,11 @@
   學歷： 快樂瑪麗安/北新國小/崇光女中/和平高中/東吳大學巨資系
 
 ## 🌟資料結構與演算法上課內容🌟
-* Week1(09/09~09/15) Introducing Github
+* Week1(09/09~09/15) Introducing 
+
+   1.介紹蔡教授、助教、課程大綱及計分方式。
+   
+   2.AWS登入教學及Codesignal基礎練習。
 
 * Week2(09/16~09/22) Linked-List
   
@@ -47,10 +51,10 @@
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
 
 - Week10(11/11~11/17)Red Black Tree
-  - [Red Black Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
 
 - Week11(11/18~11/24) Hash Table
-  - [Hash Table內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
+  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
 
 - Week12(11/25~12/01) BFS
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
