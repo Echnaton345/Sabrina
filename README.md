@@ -41,7 +41,7 @@
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
 
 - Week8(10/28~11/03) Binary Tree
-  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Merge%20Sort/Merge%20Sort%20Basic%20Concept.pdf)
+  - [內容概述]()
 
 - Week9(11/04~11/10) BlockChain Scratch
   - BlockChain 內容概述
