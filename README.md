@@ -78,19 +78,13 @@
   
 
 ## 🌟作業🌟
-  * [HW1(Qiuck Sort)](https://github.com/Sabrina8198/Sabrina/tree/master/Quick%20Sort)
-  
-  * [HW2(Merge & Heap sort)](https://github.com/Sabrina8198/Sabrina/tree/master/HW2)
-  
-  * [HW3(Binery Search Tree)](https://github.com/Sabrina8198/Sabrina/tree/master/HW3)
-  
-  * [HW4(Hash Table)](https://github.com/Sabrina8198/Sabrina/tree/master/HW4)
-  
-  * [HW5(BFS & DFS)](https://github.com/Sabrina8198/Sabrina/tree/master/HW5)
-  
-  * [HW6(Dijkstra)](https://github.com/Sabrina8198/Sabrina/tree/master/Linked-List)
-  
-  
+
+| HW        | LINK           | HW | LINK |
+| :---: | :---: | :---: | :---: |
+| HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/Sabrina8198/Sabrina/tree/master/HW4) |
+| HW2 | [MergeSort+HeapSort](https://github.com/Sabrina8198/Sabrina/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/Sabrina8198/Sabrina/tree/master/HW5) |
+| HW3 | [BinarySearchTree](https://github.com/Sabrina8198/Sabrina/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
+
 ## 🌟補充🌟
   * LeetCode
   
