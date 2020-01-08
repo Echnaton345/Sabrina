@@ -59,10 +59,10 @@
 - Week13(12/02~12/08) DFS
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/BFS%20%26%20DFS/BFS%20%26%20DFS.pdf)
 
-- [Week14(12/09~12/15) Minimum Spanning Tree]()
-  - [內容概述]()
+- Week14(12/09~12/15) Minimum Spanning Tree
+  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Shortest%20path/Minimum%20Spanning%20Tree.pdf)
 
-- [Week15(12/16~12/22) Shortest Path]()
+- Week15(12/16~12/22) Shortest Path
   - [內容概述]()
 
 - Week16(12/23~12/29) Overview
