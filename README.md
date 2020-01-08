@@ -84,7 +84,6 @@
 
 ## 🌟補充🌟
 - LeetCode
-  - [相關學習歷程整理](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/REANME.md)
    
    | Practice        | LINK           | Practice | LINK          | Practice | LINK |
 | :---: | :---: | :---: | :---: | :---: | :---: |
