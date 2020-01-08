@@ -43,14 +43,13 @@
 - Week8(10/28~11/03) Binary Tree
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binary%20Tree.pdf)
 
-- Week9(11/04~11/10) BlockChain Scratch
-  - BlockChain 內容概述
-
-- Week10(11/11~11/17)Binery Search Tree
+- Week9(11/04~11/10) Binery Search Tree
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
 
-- Week11(11/18~11/24) Red Black Tree & Hash Table
+- Week10(11/11~11/17)Red Black Tree
   - [Red Black Tree內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree/Binery%20Search%20Tree%20%26%20Red%20Black%20Tree.pdf)
+
+- Week11(11/18~11/24) Hash Table
   - [Hash Table內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Hash%20Table/Hash%20Table.pdf)
 
 - Week12(11/25~12/01) BFS
@@ -63,7 +62,7 @@
   - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Shortest%20path/Minimum%20Spanning%20Tree.pdf)
 
 - Week15(12/16~12/22) Shortest Path
-  - [內容概述]()
+  - [內容概述](https://github.com/Sabrina8198/Sabrina/blob/master/Shortest%20path/Shortest%20Path.pdf)
 
 - Week16(12/23~12/29) Overview
   
@@ -85,6 +84,12 @@
 
 ## 🌟補充🌟
   * LeetCode
+   -[相關學習歷程整理]（https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/REANME.md）
+   
+   | Practice        | LINK           | Practice | LINK          | Practice | LINK |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 155# | [Min Stack](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/155%23_Min%20Stack_06170119.py) | 965# | [Univalued Binary Tree](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/965%23_%20Univalued%20Binary%20Tree_06170119.py) | 700# | [Search in a Binary Search Tree](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/700%23_Search%20in%20a%20Binary%20Search%20Tree_06170119.py)
+| 993# | [Cousins in Binary Tree](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/993%23_Cousins%20in%20Binary%20Tree_06170119.py) | 938 | [Range Sum of BST](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/938%23_Range%20Sum%20of%20BST_06170119.py) |
   
   * CS50
    
