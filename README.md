@@ -90,7 +90,7 @@
 | 155# | [Min Stack](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/155%23_Min%20Stack_06170119.py) | 965# | [Univalued Binary Tree](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/965%23_%20Univalued%20Binary%20Tree_06170119.py) | 700# | [Search in a Binary Search Tree](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/700%23_Search%20in%20a%20Binary%20Search%20Tree_06170119.py)
 | 993# | [Cousins in Binary Tree](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/993%23_Cousins%20in%20Binary%20Tree_06170119.py) | 938# | [Range Sum of BST](https://github.com/Sabrina8198/Sabrina/blob/master/Leetcode/938%23_Range%20Sum%20of%20BST_06170119.py) |
   
-  * CS50
+  * [CS50](https://github.com/Sabrina8198/Sabrina/blob/master/CS50/README.md)
    
   * [Codesignal](https://github.com/Sabrina8198/Sabrina/blob/master/Codesignal/README.md)
 
