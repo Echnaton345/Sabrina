@@ -81,7 +81,7 @@
 
 | HW        | LINK           | HW | LINK |
 | :---: | :---: | :---: | :---: |
-| HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/Sabrina8198/Sabrina/tree/master/HW4) |
+| HW1 | [QuickSort](https://github.com/Sabrina8198/Sabrina/tree/master/HW1) | HW4 | [HashTable](https://github.com/Sabrina8198/Sabrina/tree/master/HW4) |
 | HW2 | [MergeSort+HeapSort](https://github.com/Sabrina8198/Sabrina/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/Sabrina8198/Sabrina/tree/master/HW5) |
 | HW3 | [BinarySearchTree](https://github.com/Sabrina8198/Sabrina/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
 
