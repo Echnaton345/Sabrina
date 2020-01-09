@@ -2,7 +2,7 @@
 
    高千儀的程式小天地☁️☁️
    
-   [資料結構演算法心得](https://github.com/Sabrina8198/Sabrina/blob/master/others/心得.md)
+   [資料結構及演算法心得](https://github.com/Sabrina8198/Sabrina/blob/master/others/心得.md)
   
 ## 自我介紹
 * 姓名： 高千儀
